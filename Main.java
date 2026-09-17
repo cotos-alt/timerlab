@@ -45,7 +45,7 @@ public class Main {
                 periodicTimer.cancel();
                 delayedTimer.cancel();
                 stopTimer.cancel();
-                System.out.println("Работа приложения завершена.");
+                System.out.println("Изменение внесены вторым разработчиком (cotos-alt)");
             }
         }, 7000);
     }
